@@ -1,4 +1,4 @@
-package princeton.datastructures;
+package princeton.datastructures.unionfind;
 
 public class UnionFindMain {
 	public static void main(String[] args){

@@ -1,4 +1,4 @@
-package princeton.datastructures;
+package princeton.datastructures.unionfind;
 
 public interface UnionFind {	
 	void unite(int x, int y);

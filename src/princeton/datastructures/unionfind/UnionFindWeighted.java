@@ -1,4 +1,4 @@
-package princeton.datastructures;
+package princeton.datastructures.unionfind;
 
 public class UnionFindWeighted implements UnionFind {
 
