@@ -155,7 +155,7 @@ public class Deque<Item> implements Iterable<Item> {
 	public static void main(String[] args) {
 		int n = 10;
 		Deque<Integer> deq = new Deque<Integer>();
-		for (int i = 0; i < 2; i++) {
+		for (int i = 0; i < n; i++) {
 			if (i % 2 == 0) {
 				deq.addFirst(i);
 			} else {
