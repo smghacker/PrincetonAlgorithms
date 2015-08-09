@@ -164,6 +164,9 @@ public class Deque<Item> implements Iterable<Item> {
 		}
 
 		for (Integer i : deq) {
+			for(Integer j :deq){
+				System.out.println(j);
+			}
 			System.out.println(i);
 		}
 	}
